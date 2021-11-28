@@ -1,8 +1,5 @@
-# Vue Template Project
-Boostrap 5
-Sass Pre Processor
-Vue Router
-Vue 3
+# Portfolius
+my portfolio page
 
 
 ## Project setup
