@@ -1,0 +1,23 @@
+[
+  {
+    "name": "chemistry",
+    "descr": "stuff",
+    "stack": ["which library", "other library"],
+    "imgName": "molecule-det.jpg"
+  },
+  {
+    "name": "chemistrys",
+    "descr": "stuffsss",
+    "stack": ["which library", "other library"],
+    "imgName": "molecule-det.jpg"
+  },
+
+  {
+    "name": "chemistrff",
+    "descr": "stuffsssss",
+    "stack": ["which library", "other library"],
+    "imgName": "molecule-det.jpg"
+  }
+]
+
+
